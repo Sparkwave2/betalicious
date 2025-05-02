@@ -1,0 +1,2 @@
+/setblock 54 -61 48 betalicious:beta_stone
+/time set day

@@ -3,23 +3,24 @@
   "id": "betalicious",
   "version": "${version}",
   "name": "Betalicious",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Use old Beta textures in new builds, by turning blocks into their old versions using the Time Machine.",
   "authors": [
-    "Me!"
+    "Sparkwave",
+    "Cinder"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://sparkwave.neocities.org/",
+    "sources": "https://github.com/Sparkwave2/betalicious"
   },
   "license": "CC0-1.0",
   "icon": "assets/betalicious/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "dev.titanite.kato.betalicious.fabric.ExampleModFabric"
+      "dev.titanite.sparkwave.betalicious.fabric.BetaliciousFabric"
     ],
     "client": [
-      "dev.titanite.kato.betalicious.fabric.client.ExampleModFabricClient"
+      "dev.titanite.sparkwave.betalicious.fabric.client.BetaliciousFabricClient"
     ]
   },
   "mixins": [
@@ -29,6 +30,7 @@
     "fabricloader": ">=0.16.14",
     "minecraft": "~1.21.1",
     "java": ">=21",
+    "architectury": ">=13.0.8",
     "fabric-api": "*"
   },
   "suggests": {

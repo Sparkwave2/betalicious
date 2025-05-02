@@ -1,0 +1,40 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+issueTrackerURL = "https://github.com/Sparkwave2/betalicious/issues"
+license = "Insert License Here"
+
+[[mods]]
+modId = "betalicious"
+version = "0.0.1"
+displayName = "Betalicious"
+authors = "Sparkwave, Cinder"
+description = '''
+Use old Beta textures in new builds, by turning blocks into their old versions using the Time Machine.
+'''
+#logoFile = ""
+modUrl = "https://github.com/Sparkwave2/betalicious"
+displayURL = "https://sparkwave.neocities.org/"
+
+[[dependencies.betalicious]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.betalicious]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.betalicious]]
+modId = "architectury"
+type = "required"
+versionRange = "[13.0.8,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "betalicious.mixins.json"

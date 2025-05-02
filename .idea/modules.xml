@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/betalicious.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/betalicious.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/betalicious.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/betalicious.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/betalicious.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/betalicious.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/betalicious.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/betalicious.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/betalicious.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/betalicious.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/betalicious.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/betalicious.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/betalicious.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/betalicious.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
