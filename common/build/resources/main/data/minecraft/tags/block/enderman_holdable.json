@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "betalicious:beta_grass_block",
+    "betalicious:beta_snowy_grass_block",
+    "betalicious:beta_tnt",
+    "betalicious:beta_rose",
+    "betalicious:beta_dandelion",
+    "betalicious:beta_sand",
+    "betalicious:beta_gravel",
+    "betalicious:beta_red_mushroom",
+    "betalicious:beta_brown_mushroom",
+    "betalicious:beta_cactus",
+    "betalicious:beta_clay"
+  ]
+}

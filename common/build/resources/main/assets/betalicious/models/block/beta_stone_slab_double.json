@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "betalicious:block/beta_stone_slab_top",
+    "side": "betalicious:block/beta_stone_slab_side",
+    "top": "betalicious:block/beta_stone_slab_top"
+  }
+}

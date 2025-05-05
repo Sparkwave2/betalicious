@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "betalicious:block/beta_sand"
+      },
+      {
+        "model": "betalicious:block/beta_sand",
+        "y": 90
+      },
+      {
+        "model": "betalicious:block/beta_sand",
+        "y": 180
+      },
+      {
+        "model": "betalicious:block/beta_sand",
+        "y": 270
+      }
+    ]
+  }
+}

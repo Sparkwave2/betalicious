@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "betalicious:block/beta_planks",
+    "side": "betalicious:block/beta_bookshelf"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#W#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "betalicious:beta_leaves"
+        },
+        "W": {
+            "item": "betalicious:beta_wool"
+        }
+    },
+    "result": {
+        "id": "betalicious:beta_opaque_leaves",
+        "count": 4
+    }
+}

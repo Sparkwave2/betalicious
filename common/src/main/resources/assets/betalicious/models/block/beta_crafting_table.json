@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "betalicious:block/beta_planks",
+    "east": "betalicious:block/beta_crafting_table_side",
+    "north": "betalicious:block/beta_crafting_table_front",
+    "particle": "betalicious:block/beta_crafting_table_front",
+    "south": "betalicious:block/beta_crafting_table_side",
+    "up": "betalicious:block/beta_crafting_table_top",
+    "west": "betalicious:block/beta_crafting_table_front"
+  }
+}

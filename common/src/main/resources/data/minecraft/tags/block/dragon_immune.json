@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "betalicious:beta_bedrock",
+    "betalicious:beta_obsidian",
+    "betalicious:beta_crying_obsidian"
+  ]
+}

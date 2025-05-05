@@ -1,0 +1,8 @@
+{
+  "render_type": "minecraft:cutout",
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "betalicious:block/beta_wooden_door_bottom",
+    "top": "betalicious:block/beta_wooden_door_top"
+  }
+}

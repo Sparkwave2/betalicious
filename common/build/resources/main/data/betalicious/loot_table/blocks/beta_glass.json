@@ -23,7 +23,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "kubejs:beta_glass"
+          "name": "betalicious:beta_glass"
         }
       ],
       "rolls": 1.0

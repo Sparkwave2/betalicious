@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "betalicious:beta_grass_block",
+    "betalicious:beta_snowy_grass_block",
+    "betalicious:beta_sand",
+    "betalicious:beta_snow"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "betalicious:block/beta_wooden_slab"
+    },
+    "type=double": {
+      "model": "betalicious:block/beta_planks"
+    },
+    "type=top": {
+      "model": "betalicious:block/beta_wooden_slab_top"
+    }
+  }
+}

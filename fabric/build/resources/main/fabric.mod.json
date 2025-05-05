@@ -1,18 +1,21 @@
 {
   "schemaVersion": 1,
   "id": "betalicious",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "name": "Betalicious",
   "description": "Use old Beta textures in new builds, by turning blocks into their old versions using the Time Machine.",
   "authors": [
-    "Sparkwave",
+    "Sparkwave"
+  ],
+  "contributors": [
     "Cinder"
   ],
   "contact": {
     "homepage": "https://sparkwave.neocities.org/",
+    "issues": "https://github.com/Sparkwave2/betalicious/issues",
     "sources": "https://github.com/Sparkwave2/betalicious"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/betalicious/icon.png",
   "environment": "*",
   "entrypoints": {

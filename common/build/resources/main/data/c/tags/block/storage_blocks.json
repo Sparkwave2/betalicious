@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "betalicious:beta_iron_block",
+    "betalicious:beta_gold_block",
+    "betalicious:beta_diamond_block"
+  ]
+}

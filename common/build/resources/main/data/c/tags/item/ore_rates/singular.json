@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "betalicious:beta_coal_ore",
+    "betalicious:beta_iron_ore",
+    "betalicious:beta_gold_ore",
+    "betalicious:beta_diamond_ore"
+  ]
+}

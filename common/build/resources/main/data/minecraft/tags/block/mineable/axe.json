@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "betalicious:beta_planks",
+    "betalicious:beta_wooden_stairs",
+    "betalicious:beta_wooden_pressure_plate",
+    "betalicious:beta_sapling",
+    "betalicious:beta_log",
+    "betalicious:beta_red_mushroom",
+    "betalicious:beta_brown_mushroom",
+    "betalicious:beta_bookshelf",
+    "betalicious:beta_crafting_table",
+    "betalicious:beta_sugar_cane",
+    "betalicious:beta_note_block",
+    "betalicious:beta_wooden_door",
+    "betalicious:beta_ladder",
+    "betalicious:beta_wooden_slab"
+  ]
+}

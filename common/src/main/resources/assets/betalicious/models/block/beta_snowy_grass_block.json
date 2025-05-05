@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "particle": "betalicious:block/beta_dirt",
+    "bottom": "betalicious:block/beta_dirt",
+    "top": "betalicious:block/beta_snow",
+    "side": "betalicious:block/beta_snowy_grass_side"
+  }
+}

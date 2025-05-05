@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "betalicious:block/beta_planks",
+    "side": "betalicious:block/beta_planks",
+    "top": "betalicious:block/beta_planks"
+  }
+}
