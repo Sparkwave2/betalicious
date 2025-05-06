@@ -11,12 +11,12 @@
     "Cinder"
   ],
   "contact": {
-    "homepage": "https://sparkwave.neocities.org/",
+    "homepage": "https://modrinth.com/project/betalicious",
     "issues": "https://github.com/Sparkwave2/betalicious/issues",
     "sources": "https://github.com/Sparkwave2/betalicious"
   },
   "license": "MIT",
-  "icon": "assets/betalicious/icon.png",
+  "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -33,7 +33,7 @@
     "fabricloader": ">=0.16.14",
     "minecraft": "~1.21.1",
     "java": ">=21",
-    "architectury": ">=13.0.8",
+    "architectury": ">=13.0.5",
     "fabric-api": "*"
   },
   "suggests": {

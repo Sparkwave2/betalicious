@@ -11,10 +11,10 @@ authors = "Sparkwave, Cinder"
 description = '''
 Use old Beta textures in new builds, by turning blocks into their old versions using the Time Machine.
 '''
-logoFile = "src/main/resources/assets/betalicious/icon.png"
+logoFile = "icon.png"
 logoBlur = false
-modUrl = "https://github.com/Sparkwave2/betalicious"
-displayURL = "https://sparkwave.neocities.org/"
+modUrl = "https://modrinth.com/project/betalicious"
+displayURL = "https://modrinth.com/project/betalicious"
 
 [[dependencies.betalicious]]
 modId = "neoforge"
@@ -33,7 +33,7 @@ side = "BOTH"
 [[dependencies.betalicious]]
 modId = "architectury"
 type = "required"
-versionRange = "[13.0.8,)"
+versionRange = "[13.0.5,)"
 ordering = "AFTER"
 side = "BOTH"
 

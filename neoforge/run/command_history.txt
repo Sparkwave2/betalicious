@@ -13,3 +13,5 @@
 /weather clear
 /time set dayh
 /time set day
+/time set eday
+/time set day
