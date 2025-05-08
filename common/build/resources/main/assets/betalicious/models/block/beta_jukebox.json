@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_top",
-  "textures": {
-    "side": "betalicious:block/beta_jukebox_side",
-    "top": "betalicious:block/beta_jukebox_top"
-  }
-}

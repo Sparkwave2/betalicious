@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "betalicious:block/beta_log_top",
-    "side": "betalicious:block/beta_log_side"
-  }
-}
