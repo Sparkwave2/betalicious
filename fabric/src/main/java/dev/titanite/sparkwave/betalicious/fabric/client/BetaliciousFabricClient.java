@@ -18,6 +18,7 @@ public final class BetaliciousFabricClient implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(Betalicious.BETA_CACTUS.get(), RenderType.cutout());
         BlockRenderLayerMap.INSTANCE.putBlock(Betalicious.BETA_SUGAR_CANE.get(), RenderType.cutout());
         BlockRenderLayerMap.INSTANCE.putBlock(Betalicious.BETA_TORCH.get(), RenderType.cutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(Betalicious.BETA_WALL_TORCH.get(), RenderType.cutout());
         BlockRenderLayerMap.INSTANCE.putBlock(Betalicious.BETA_REDSTONE_TORCH.get(), RenderType.cutout());
         BlockRenderLayerMap.INSTANCE.putBlock(Betalicious.BETA_WOODEN_DOOR.get(), RenderType.cutout());
         BlockRenderLayerMap.INSTANCE.putBlock(Betalicious.BETA_IRON_DOOR.get(), RenderType.cutout());
